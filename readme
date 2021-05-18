@@ -1,8 +1,0 @@
-不使用Typescript编译器，只用类型检查功能
-进入项目目录
-npm install grunt-screeps
-npm install -g typescript
-npm install -D @types/screeps @types/lodash@3.10.1
-vscode setting 关闭  JavaScript>Suggest: include Automatic Optional Chain Completions
-使用 grunt screeps 上传
-​	
